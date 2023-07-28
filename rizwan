@@ -1,1 +1,285 @@
-!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="../Assets/icon/snowflake.png" type="image/png" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <title>Rizwan </title>
+</head>
+<body>
+  <!-- Header -->
+  <header class="flex just-btwn align-cntr">
+    <div class="brandLogo">
+      <span>P</span>ortfolio
+    </div>
+    <nav class="navbarMenu">
+      <ul class="flex just-btwn align-cntr">
+        <li><a href="#project">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Header -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Hero -->
+  <section class="title flex just-btwn align-cntr">
+    <div class="titleDes">
+      <div class="hi">
+        <p>
+          Hi, my name is <b>Rizwan Chopan</b></br></br>
+        <b>A passionate and enthusiastic web developer with a strong desire to create elegant, functional,
+             and user-friendly websites. I recently graduated with a degree in Computer Scince and have dived
+            headfirst into the world of web development to bring my ideas to life on the digital canvas.</b>
+        </p>
+      </div>
+      <div class="btn">
+        <button><a href="https://https://github.com/rizwan373">GITHUB</a></button>
+        <button><a href="https://www.linkedin.com/in/rizwanahmad1997/">LINKEDIN</a></button>
+        <button><a href="#">DOWNLOAD CV</a></button>
+      </div>
+    </div>
+    <div class="titlePic">
+      <img src="../Assets/img/rizwan.png.png" alt="profile-pic" class="profilePic">
+    </div>
+  </section>
+  <!-- Hero -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <br>
+  <br>
+  <!-- Main -->
+  <main>
+    <!-- About in Main -->
+    <div id="about">
+      <h1>About</h1>
+      <div class="aboutItem flex just-even align-cntr">
+        <div class="work">
+          <h2>Web Development</h2>
+          <p>My journey in web development started when I built my first website during college. Since then, I've been hooked and have embarked on a continuous learning journey to stay up-to-date with the latest web technologies and trends. I love the creative process of designing and coding websites,
+             and I'm always eager to take on new challenges that push me to expand my skillset.</p>
+        </div>
+        <div class="work">
+          <h2>What Drives Me:</h2>
+          <p>I'm passionate about making a positive impact through technology.
+             For me, web development is not just about lines of code;
+              it's about creating meaningful solutions that improve people's lives
+               and enhance their online experiences. Whether I'm building an e-commerce platform
+                or a personal blog,
+             my goal is to craft intuitive,accessible,
+              and visually appealing websites that leave a lasting impression on users.
+              As a problem solver at heart, I'm driven by the desire to create innovative solutions that make a real impact in the digital realm. Whether it's designing responsive interfaces
+               or architecting robust databases, I love building web applications that stand out.
+            </p>
+        </div>
+        <div class="work">
+          <h2>Tech Stack:</h2>
+          <p>I wield an extensive array of cutting-edge technologies, including:
+
+            Languages: Python, JavaScript (ES6+), C++
+            Front-End Development: HTML5, CSS3, ReactJS, Angular
+            Back-End Development: Node.js, Express.js, Django
+            Database: MongoDB, MySQL, PostgreSQL
+            Version Control: Git, GitHub
+            Deployment & Cloud: Docker, AWS, Heroku</p>
+        </div>
+      </div>
+    </div>
+    <!-- About in Main -->
+    <!-- Skill in Main -->
+    <div id="skill">
+      <h1 class="skillHead">My Skills & Tools</h1>
+      <div class="skills flex just-even align-cntr f-wrap">
+        <img src="../Assets/img/css-logo.png" alt="css" class="skill-item">
+        <img src="../Assets/img/js.png" alt="javascript" class="skill-item">
+        <img src="../Assets/img/react.png" alt="react" class="skill-item">
+        <img src="../Assets/img/redux-icon.png" alt="redux" class="skill-item">
+        <img src="../Assets/img/django.webp" alt="django" class="skill-item">
+        <img src="../Assets/img/express.png" alt="express" class="skill-item">
+        <img src="../Assets/img/aws.png" alt="aws" class="skill-item">
+        <img src="../Assets/img/doc.png" alt="docker" class="skill-item">
+        <img src="../Assets/img/html,png.jpg" alt="html" class="skill-item">
+      </div>
+    </div>
+    <!-- Skill in Main -->
+    <!-- Project in Main -->
+    <div id="project">
+      <h1 class="projectHead">My Projects</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="projItem flex just-even align-cntr">
+        <div class="projectDes">
+          <h2>Twitter Clone</h2>
+          <p>Project Description: A convenient and fun
+            way to browse featured
+            clothing & accessories from some of the
+            best clothing brands online, especially aimed at teenagers. With
+            this web app, you can browse products by
+            any color you like or by trending colors, save products into
+            favorites, and share products with friends on
+            social media.Lorem Ipsum is simply dummy text of the printing and
+            typesetting industry.</p>
+          <div class="projDesDetail">
+            <span>
+              <h2>Skills Used:</h2>
+            </span>
+            Frontend: React & Redux || Backend: Django API
+            <h2>Test Login Account</h2>
+            <span>Username :test@gamil.com</span>
+            <p>Password :123</p>
+          </div>
+          <div class="btn">
+            <button><a href="#">Website Link</a></button>
+            <button><a href="#">GitHub Link</a></button>
+          </div>
+        </div>
+        <div class="projectScst">
+          <img src="../Assets/img/image 47.png" alt="pro-1" class="projPic">
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="projItem flex just-even align-cntr">
+        <div class="projectDes">
+          <h2>Twitter Clone</h2>
+          <p>Project Description: A convenient and fun way to browse featured clothing & accessories from some of the
+            best clothing brands online, especially aimed at teenagers. With this web app, you can browse products by
+            any color you like or by trending colors, save products into favorites, and share products with friends on
+            social media.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+          <div class="projDesDetail">
+            <span>
+              <h2>Skills Used:</h2>
+            </span>Frontend: React & Redux || Backend: Django API
+            <h2>Test Login Account</h2>
+            <span>Username :test@gamil.com</span>
+            <p>Password :123</p>
+          </div>
+          <div class="btn">
+            <button><a href="#">Website Link</a></button>
+            <button><a href="#">GitHub Link</a></button>
+          </div>
+        </div>
+        <div class="projectScst">
+          <img src="../Assets/img/image 48.png" alt="pro-2" class="projPic">
+        </div>
+      </div>
+      <div class="projItem flex just-even align-cntr">
+        <div class="projectDes">
+          <h2>Twitter Clone</h2>
+          <p>Project Description: A convenient and fun way to browse featured clothing & accessories from some of the
+            best clothing brands online, especially aimed at teenagers. With this web app, you can browse products by
+            any color you like or by trending colors, save products into favorites, and share products with friends on
+            social media.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+          <div class="projDesDetail">
+            <span>
+              <h2>Skills Used:</h2>
+            </span>Frontend: React & Redux || Backend: Django API
+            <h2>Test Login Account</h2>
+            <span>Username :test@gamil.com</span>
+            <p>Password :123</p>
+          </div>
+          <div class="btn">
+            <button><a href="#">Website Link</a></button>
+            <button><a href="#">GitHub Link</a></button>
+          </div>
+        </div>
+        <div class="projectScst">
+          <img src="../Assets/img/Screenshot 2022-07-12 at 3.44 1.png" alt="pro-2" class="projPic">
+        </div>
+      </div>
+    </div>
+    </div>
+    <!-- Project in Main -->
+  </main>
+  <!-- Main -->
+
+
+
+
+
+
+
+
+
+
+  <!-- Footer -->
+  <footer id="contact">
+    <h1>Hope you found my portfolio interesting!</h1>
+    <p>You can reach me at:
+      <a id="email" href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="__blank">rizwanraeem@gmail.com</a>
+    </p>
+    <hr>
+    <div class="socialIcons">
+      <a href="https://https://github.com/rizwan373"><img src="../Assets/img/github.png" alt="github" class="git"></a>
+      <a href="https://www.linkedin.com/in/rizwanahmad1997/"><img src="../Assets/img/linkedin.png" alt="linkedin" class="link"></a>
+    </div>
+    <p id="copy">Rizwan Chopan Portfolio - &copy; 2023 All Rights Reserved</p>
+  </footer>
+  <!-- Footer -->
+</body>
+</html>
